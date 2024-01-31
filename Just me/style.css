@@ -7,6 +7,7 @@ body{
   background-position:center;/* Centers the background image */
   height: 150px;/* Sets the height of the header */
   width:auto; /* Automatically adjusts the width of the header */
+  padding: 15px;
 }
 .wrapper {
 width: 480px;/* Sets the width of content wrappers */
@@ -55,6 +56,6 @@ a: active{/* Changes the link color when active (clicked) */
 }
 li{
   font-size: 18px;/* Sets the font size for list items */
- 
+ padding: 5px 0;
 }
   
