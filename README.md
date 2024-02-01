@@ -1,2 +1,0 @@
-# just-me
-thinkful project
