@@ -7,23 +7,23 @@ body{
   background-position:center;/* Centers the background image */
   height: 150px;/* Sets the height of the header */
   width:auto; /* Automatically adjusts the width of the header */
-  padding: 15px;
+  padding: 15px;/* Adds 15 pixels of padding to all sides of the header */
 }
 .wrapper {
 width: 480px;/* Sets the width of content wrappers */
 margin: auto;/* Centers the wrappers horizontally */
 }
 h3{/* Sets all properties within h3 elements */
-  text-align: center;
-  font-family: Arial, Helvetica, sans-serif ;
-  font-size: 40px;
+  text-align: center;/* Centers the text within h3 elements */
+  font-family: Arial, Helvetica, sans-serif ; /* Sets the font family for h3 elements */
+  font-size: 40px;/* Sets the font size for h3 elements */
 }
-img{
+img{/* Sets all properties within img elements */
   
   width: 30%;/* Sets the width of images to 30% of their container */
   border: 15px #b4b4b4 solid;/* Sets a solid border and color around images */
 }
-footer{
+footer{/* Sets all properties within footer elements */
   text-align: center;/* Centers the text within the footer */
   background-color:grey;/* Sets the background color of the footer */
   
@@ -34,12 +34,12 @@ html {
   width: 100%;/* Sets the width of the HTML element */
 }
 p {/* Sets all properties within p elements */
-  font-family: Arial, Helvetica, sans-serif ;
-  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif ;/* Sets the font family for h3 elements */
+  font-size: 20px;/* Sets the font size for paragraphs */
 }
   
 .left{/* Aligns text to the left within elements with the 'left' class */
-  text-align:left
+  text-align:left/* Aligns text to the left within elements with the 'left' class */
 }
 a{/* Sets the default color for links */
   color:green;
@@ -56,6 +56,6 @@ a: active{/* Changes the link color when active (clicked) */
 }
 li{
   font-size: 18px;/* Sets the font size for list items */
- padding: 5px 0;
+ padding: 5px 0;/* Adds 5 pixels of padding to the top and bottom, and 0 pixels to the left and right sides of list items */
 }
   
